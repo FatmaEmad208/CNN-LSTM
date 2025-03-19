@@ -1,1 +1,1 @@
-download dataset from" http://www.cse.cuhk.edu.hk/leojia/projects/detectabnormal/Avenue_dataset.html"
+download dataset from" https://www.cse.cuhk.edu.hk/~leojia/projects/detectabnormal/dataset.html"
